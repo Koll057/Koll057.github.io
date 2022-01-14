@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d423701f.css",
+    "main.js": "/static/js/main.536d7449.js",
+    "static/js/787.23716fb4.chunk.js": "/static/js/787.23716fb4.chunk.js",
+    "static/media/cosmos.jpg": "/static/media/cosmos.2e2f2bcef2c8ced32911.jpg",
+    "static/media/tochka.png": "/static/media/tochka.fe0ec64af0ee1a86fb2d.png",
+    "static/media/1.png": "/static/media/1.da0d33caef292cadebbe.png",
+    "static/media/Jost.ttf": "/static/media/Jost.c1093d3b40634f8ee90d.ttf",
+    "static/media/2.png": "/static/media/2.e51a3082fc6800a0e635.png",
+    "static/media/3.png": "/static/media/3.73a63adda2a2fd0e72e8.png",
+    "static/media/4.png": "/static/media/4.5a9bcae0ae11e1c9b9f1.png",
+    "static/media/5.png": "/static/media/5.feb03fe83c1705d1c7c8.png",
+    "static/media/6.png": "/static/media/6.18647adbb06e4bd0fad3.png",
+    "static/media/Back2.png": "/static/media/Back2.a19ac02968105317463b.png",
+    "static/media/blackhole.png": "/static/media/blackhole.2cc3d6d81b978aae3683.png",
+    "static/media/Anime.txt": "/static/media/Anime.23f4a07dc361aecc797a.txt",
+    "static/media/Back1.png": "/static/media/Back1.dee23aa6329f73aba0e2.png",
+    "static/media/Film.txt": "/static/media/Film.b04af05f30b54c698b90.txt",
+    "static/media/Eat.txt": "/static/media/Eat.58ac62da93ae51a2b6b1.txt",
+    "static/media/Music.txt": "/static/media/Music.54f0ea79ff44e22a597e.txt",
+    "static/media/Animal.txt": "/static/media/Animal.0cf8e73bc8f094359824.txt",
+    "static/media/Serial.txt": "/static/media/Serial.f7ccf95aa48dd69f54d1.txt",
+    "static/media/Game.txt": "/static/media/Game.61dcc28936013c2a2374.txt",
+    "index.html": "/index.html",
+    "static/media/ZodiacStr.txt": "/static/media/ZodiacStr.0a431413c95653437215.txt",
+    "static/media/ZodiacName.txt": "/static/media/ZodiacName.a439e0e209aeb1858359.txt",
+    "main.d423701f.css.map": "/static/css/main.d423701f.css.map",
+    "main.536d7449.js.map": "/static/js/main.536d7449.js.map",
+    "787.23716fb4.chunk.js.map": "/static/js/787.23716fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d423701f.css",
+    "static/js/main.536d7449.js"
+  ]
+}

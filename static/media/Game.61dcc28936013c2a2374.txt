@@ -1,0 +1,94 @@
+Atari 2600 Jr (needs work, composite mod, no sound)
+Atari Flashback 2 (hacked for cart support)
+Atari 5200  (needs work, rf-only)
+Intellivision II (needs work, rf-only)
+Colecovision (rgb mod)
+Vectrex
+Sega Master System
+NES (AV Famicom, rgb mod)
+Sharp Twin (no mods)
+Atari 7800 (s-video mod)
+SMS (via mega everdrive x7 for Genesis)
+Sega SG-1000 (via mega everdrive x7 for Genesis)
+Turbo Duo (PC Engine/PC-CD) (Rgb mod)
+Sega Genesis (jailbar removal)
+Sega CD
+Sega 32X
+Neo-Geo (MVS Consolized, stereo mod, bios mod, +5V mod, VMC mod)
+Super NES 2 (rgb mod)
+3DO
+PSOne (protection mod)
+Playstation (PSIO switch)
+Sega Saturn (protection mod, pseudo saturn kai)
+N64 (Rgb mod)
+Neo Geo CD (needs neo cd sd loader)
+Dreamcast (working on ODE mod)
+Playstation 2 (soft mod, hdd)
+Gamecube
+Xbox (softmod, bigger hdd)
+Xbox 360 (protection mod, RGH)
+Wii (soft mod)
+Playstation 3 (soft mod)
+Wii U (soft mod)
+Playstation 4 slim (soft mod)
+PSVR
+Nintendo Switch (soft mod / early gen)
+VIC-20
+C64         (pi1541 + final cart iii+)
+Amiga
+Atari ST
+TI-99/4a
+ZX-81 clone (Minstrel ZX-81)
+Gameboy DMG
+Gameboy Color
+Game Gear (recapped)
+Virtual Boy
+WonderSwan
+Neo Geo Pocket Color
+Gameboy Advance
+Gameboy Advance SP
+GBA Macro (Modified DS lite)
+GP32
+Original DS
+Nintendo DS lite
+Playstation Portable (soft mod)
+3DS (soft mod)
+PS Vita (soft mod)
+Lynx
+Atari 2600      -> Harmony Cart
+NES             -> Everdrive N8
+Genesis/32x/SMS -> Mega Everdrive x7
+TurboGrafx/PCE  -> Turbo Everdrive
+Super Nintendo. -> SD2SNES
+Nintendo 64     -> Everdrive 64 v2.5
+Nintendo DS     -> R4i Card
+Gameboy         -> GB EMS Smart Card 64mb
+Gameboy Advance -> Old crusty parallel flasher deal -> Everdrive GBA
+Playstation     -> PSIO
+Guncon
+Saturn Stunner / Virtua Gun
+Guncon 2
+SMS Light Phaser
+Nes zapper
+Hyperkin SNES mouse
+Famicom 3d System
+Odyssey 2
+Sega Mark III #
+CD-i
+Jaguar/CD
+FM Towns Marty
+Amiga CD32
+PC-FX
+Xbox One (don't care)
+Gameboy Pocket #
+Gameboy Light #
+Gameboy Micro #
+PSP Go #
+Game & Watch
+XEGS
+MSX2+
+SegaScope 3d glasses
+Super Scope
+Menacer
+Justifier
+Guncon 3
