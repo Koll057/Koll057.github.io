@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.27be3555.css",
+    "main.css": "/static/css/main.576b3437.css",
     "main.js": "/static/js/main.f011ff15.js",
     "static/js/787.23716fb4.chunk.js": "/static/js/787.23716fb4.chunk.js",
     "static/media/cosmos.jpg": "/static/media/cosmos.2e2f2bcef2c8ced32911.jpg",
@@ -25,12 +25,12 @@
     "index.html": "/index.html",
     "static/media/ZodiacStr.txt": "/static/media/ZodiacStr.0a431413c95653437215.txt",
     "static/media/ZodiacName.txt": "/static/media/ZodiacName.a439e0e209aeb1858359.txt",
-    "main.27be3555.css.map": "/static/css/main.27be3555.css.map",
+    "main.576b3437.css.map": "/static/css/main.576b3437.css.map",
     "main.f011ff15.js.map": "/static/js/main.f011ff15.js.map",
     "787.23716fb4.chunk.js.map": "/static/js/787.23716fb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27be3555.css",
+    "static/css/main.576b3437.css",
     "static/js/main.f011ff15.js"
   ]
 }
